@@ -8,10 +8,10 @@ El repositorio cuenta con los siguientes archivos:
 - Archivo MANIFEST.MF
 - Archivo jar ejecutable de la aplicación
 
-El presente proyecto consiste en una de las primeras prácticas de aprendizaje que realicé durante los pasos iniciales en la programación Java.
-Consiste en un programa encargado de evaluar cuántos días de vacaciones le correspondería a empleados de la empresa Coca-Cola (elegida al azar) 
-en función del cargo que ocupan como así también de los años de antigüedad en dicha organización.
-Para utilizar la aplicación, el usuario debe ingresar su nombre, posteriormente debe aceptar los términos y condiciones y finalmente tendrá 
+El presente proyecto fue una de las primeras prácticas de aprendizaje que realicé durante los pasos iniciales en la programación Java.
+Consiste en un programa encargado de evaluar cuántos días de vacaciones le correspondería a los empleados de la empresa Coca-Cola (elegida al azar) 
+en función del cargo que ocupan como así también de sus años de antigüedad en dicha organización.
+Para utilizar la aplicación, el usuario debe ingresar su nombre, posteriormente debe aceptar los términos y condiciones, y finalmente tendrá 
 acceso a la pantalla principal donde podrá realizar el cálculo de los días de licencia. Por otra parte, en esa misma interfaz, el usuario tiene 
 la posibilidad de cambiar el color de fondo de la aplicación (puede elegir rojo, negro o morado); puede resetear los días evaluados para ingresar
 a un nuevo empleado; y además puede salir de esa interfaz para que otro usuario, o nuevamente él mismo, ingrese al sistema.
