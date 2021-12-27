@@ -21,12 +21,15 @@ canal de Youtube dedicado a la enseñanza de distintos lenguajes de programació
 Como parte de lo que fue mi primer aprendizaje en Java, por eso consideré importante publicar lo practicado en este repositorio. 
 
 ----------VENTANA BIENVENIDA----------
+
 ![Screenshot](screenshots/screenshot1.png)
 
 ----------VENTANA LICENCIA----------
-![Screenshot](screenshot2.png)
+
+![Screenshot](screenshots/screenshot2.png)
 
 ----------VENTANA PRINCIPAL----------
-![Screenshot](screenshot3.png)
+
+![Screenshot](screenshots/screenshot3.png)
 
 
