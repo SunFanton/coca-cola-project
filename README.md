@@ -14,7 +14,7 @@ en función del cargo que ocupan como así también de los años de antigüedad 
 Para utilizar la aplicación, el usuario debe ingresar su nombre, posteriormente debe aceptar los términos y condiciones y finalmente tendrá 
 acceso a la pantalla principal donde podrá realizar el cálculo de los días de licencia. Por otra parte, en esa misma interfaz, el usuario tiene 
 la posibilidad de cambiar el color de fondo de la aplicación (puede elegir rojo, negro o morado); puede resetear los días evaluados para ingresar
-a un nuevo empleado; y además puede salir de esa interfaz para otro usuario, o nuevamente él mismo, ingrese al sistema.
+a un nuevo empleado; y además puede salir de esa interfaz para que otro usuario, o nuevamente él mismo, ingrese al sistema.
 
 El proyecto fue realizado a partir de la propuesta presentada en [La Geekipedia de Ernesto](https://www.youtube.com/channel/UCeEW6PHNJlIwI-rKChmqqkw), 
 canal de Youtube dedicado a la enseñanza de distintos lenguajes de programación, cuya guía y tutoría en el proyecto hizo posible esta práctica.
